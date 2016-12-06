@@ -1,2 +1,2 @@
 #!/bin/bash
-orbd -ORBInitialPort 1052 -port 1053 -ORBServerHost virginia 
+orbd -ORBInitialPort 1052 -port 1053 -ORBServerHost virginia
